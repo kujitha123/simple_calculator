@@ -1,1 +1,2 @@
-file:///C:/Users/kujit/Downloads/simplecalculator/index.html
+
+https://huggingface.co/spaces/kujitha/simple_calculator
